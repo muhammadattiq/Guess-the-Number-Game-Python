@@ -1,1 +1,1 @@
-## In this prgram a rndon number will be generated and user has to guess the random generated number ##
+## In this program a randon number will be generated and user has to guess the random generated number ##
